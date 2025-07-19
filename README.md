@@ -27,6 +27,8 @@ This project demonstrates how machine learning can be used to estimate salaries 
 
 
 
+<img width="1892" height="946" alt="image" src="https://github.com/user-attachments/assets/5cddc1cd-142b-48db-bb57-d576e91a2f1b" />
+
 
 
 
