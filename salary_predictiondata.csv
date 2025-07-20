@@ -1,0 +1,378 @@
+education,gender,workclass,age,country,role,salary
+Master's,Female,Self-Employed,57,Germany,AI Engineer,113678
+PhD,Male,Private,41,United States,Data Analyst,89379
+Bachelor's,Female,Private,49,India,Cloud Engineer,90725
+PhD,Female,Private,46,Canada,Cloud Engineer,102210
+Master's,Other,Government,52,Germany,Cloud Engineer,103626
+Master's,Female,Government,30,India,ML Engineer,97780
+Bachelor's,Male,Self-Employed,57,Other,Data Analyst,79738
+Bachelor's,Other,Self-Employed,36,Germany,Website Handler,69816
+PhD,Other,Self-Employed,42,United States,AI Engineer,113822
+Bachelor's,Other,Government,28,Germany,Cloud Engineer,84939
+Bachelor's,Male,Private,59,Canada,Data Analyst,83864
+Bachelor's,Female,Government,24,India,Cloud Engineer,83548
+Bachelor's,Female,Self-Employed,42,Other,Website Handler,72927
+Master's,Male,Self-Employed,48,India,AI Engineer,108473
+Bachelor's,Other,Private,58,Germany,Website Handler,73711
+PhD,Female,Self-Employed,59,Other,Data Analyst,94974
+PhD,Male,Private,31,Canada,Data Analyst,82815
+Master's,Other,Government,59,India,Cloud Engineer,103697
+Master's,Female,Government,48,Germany,AI Engineer,109187
+Master's,Male,Private,39,Canada,ML Engineer,103940
+PhD,Male,Private,55,India,ML Engineer,115145
+Master's,Other,Government,33,United States,Cloud Engineer,93987
+Master's,Female,Private,27,United States,ML Engineer,100935
+Bachelor's,Female,Government,35,United States,Cloud Engineer,97315
+Master's,Other,Government,23,Canada,AI Engineer,98922
+PhD,Male,Government,40,Germany,Cloud Engineer,103089
+PhD,Male,Self-Employed,23,Canada,AI Engineer,111077
+Master's,Other,Private,60,United States,ML Engineer,110364
+PhD,Male,Self-Employed,45,Germany,Cloud Engineer,106335
+Bachelor's,Female,Government,32,Canada,Software Engineer,82846
+Bachelor's,Female,Private,36,Germany,Data Analyst,73315
+PhD,Male,Self-Employed,49,Other,Cloud Engineer,102828
+Bachelor's,Male,Self-Employed,45,Canada,Website Handler,72051
+Bachelor's,Male,Self-Employed,45,United States,ML Engineer,102090
+PhD,Male,Private,39,India,Cloud Engineer,105083
+PhD,Other,Government,41,Germany,AI Engineer,109110
+Bachelor's,Other,Government,33,Germany,Software Engineer,81180
+Master's,Male,Government,42,Other,Cloud Engineer,101605
+Master's,Male,Private,54,Germany,Cloud Engineer,101469
+Master's,Female,Private,56,United States,Cloud Engineer,106388
+Master's,Female,Government,25,United States,Website Handler,79109
+Master's,Other,Private,31,Canada,Software Engineer,84674
+Master's,Female,Private,25,India,Software Engineer,84886
+Bachelor's,Female,Government,45,United States,Cloud Engineer,97319
+Bachelor's,Other,Self-Employed,33,United States,Data Analyst,75252
+PhD,Male,Government,49,Germany,AI Engineer,119095
+Master's,Male,Self-Employed,55,Other,ML Engineer,107612
+Master's,Female,Self-Employed,43,United States,Website Handler,81120
+Master's,Male,Self-Employed,23,Canada,Cloud Engineer,90832
+Bachelor's,Other,Private,21,Other,Cloud Engineer,86303
+Master's,Female,Private,23,Canada,Cloud Engineer,95130
+Master's,Other,Government,44,Germany,Cloud Engineer,101985
+Bachelor's,Female,Private,30,Canada,Cloud Engineer,87554
+PhD,Female,Private,56,Germany,Website Handler,83911
+Master's,Other,Self-Employed,34,India,Data Analyst,79793
+Master's,Female,Private,45,Canada,ML Engineer,102272
+Master's,Male,Government,25,Germany,AI Engineer,101345
+Master's,Other,Self-Employed,43,Other,ML Engineer,105319
+PhD,Female,Government,60,Other,Cloud Engineer,111550
+PhD,Male,Self-Employed,45,India,Website Handler,85810
+Master's,Female,Self-Employed,52,India,Software Engineer,93979
+PhD,Female,Self-Employed,52,India,Software Engineer,97061
+PhD,Other,Self-Employed,21,India,Data Analyst,80654
+PhD,Female,Private,49,India,Cloud Engineer,104874
+Bachelor's,Male,Self-Employed,24,Canada,Software Engineer,78015
+Master's,Other,Private,59,India,Software Engineer,92772
+PhD,Female,Private,42,Germany,Cloud Engineer,103630
+Master's,Other,Self-Employed,50,Canada,Software Engineer,86202
+Bachelor's,Female,Private,41,Canada,Website Handler,69690
+Bachelor's,Other,Government,41,Germany,AI Engineer,105964
+Bachelor's,Other,Self-Employed,26,India,Software Engineer,78485
+Bachelor's,Male,Private,37,Germany,Website Handler,70588
+Bachelor's,Female,Self-Employed,55,Canada,Software Engineer,89590
+Master's,Male,Self-Employed,45,United States,Cloud Engineer,100709
+Bachelor's,Male,Government,27,Canada,Data Analyst,77845
+Bachelor's,Male,Government,58,Canada,Data Analyst,81290
+Master's,Other,Private,52,Other,Website Handler,79594
+Master's,Female,Private,38,India,Cloud Engineer,92889
+PhD,Male,Self-Employed,47,India,ML Engineer,112703
+Master's,Male,Self-Employed,48,United States,AI Engineer,116101
+PhD,Male,Government,56,Canada,Website Handler,87064
+PhD,Female,Self-Employed,39,Germany,Software Engineer,93666
+Bachelor's,Other,Self-Employed,51,Other,ML Engineer,103185
+Bachelor's,Male,Self-Employed,60,Canada,ML Engineer,100658
+Bachelor's,Male,Private,45,Germany,Data Analyst,82048
+Master's,Male,Government,53,Other,Software Engineer,88480
+Bachelor's,Other,Government,48,India,ML Engineer,96390
+Master's,Female,Government,58,Other,ML Engineer,109994
+Master's,Other,Private,23,Germany,Website Handler,75431
+PhD,Other,Government,60,United States,ML Engineer,117276
+Master's,Male,Private,30,United States,Software Engineer,90948
+Master's,Male,Government,37,United States,Cloud Engineer,96256
+Bachelor's,Male,Private,45,Canada,Data Analyst,82721
+Bachelor's,Female,Self-Employed,25,Canada,ML Engineer,89446
+Master's,Other,Government,36,Other,Cloud Engineer,97690
+PhD,Male,Private,54,United States,Website Handler,86349
+Bachelor's,Other,Government,23,Canada,Cloud Engineer,84257
+Master's,Other,Government,38,Germany,ML Engineer,101205
+Master's,Male,Self-Employed,43,Germany,AI Engineer,107137
+Bachelor's,Other,Self-Employed,60,Germany,Software Engineer,86012
+PhD,Male,Government,42,Canada,Software Engineer,89895
+Bachelor's,Other,Government,50,Other,ML Engineer,96216
+Bachelor's,Male,Private,58,Germany,AI Engineer,110389
+PhD,Female,Private,34,Germany,AI Engineer,113510
+Master's,Male,Private,58,Canada,Software Engineer,94115
+PhD,Female,Government,27,Other,Data Analyst,81119
+Bachelor's,Male,Self-Employed,60,Other,ML Engineer,107999
+PhD,Other,Self-Employed,39,India,Cloud Engineer,100639
+Bachelor's,Female,Self-Employed,44,Canada,Data Analyst,80874
+Bachelor's,Other,Government,36,United States,AI Engineer,101539
+Master's,Other,Self-Employed,24,Other,Data Analyst,76156
+Master's,Male,Private,39,Germany,ML Engineer,101859
+Master's,Other,Private,26,India,AI Engineer,105051
+PhD,Male,Self-Employed,46,Other,Website Handler,88442
+PhD,Male,Private,48,United States,Software Engineer,95259
+Master's,Other,Self-Employed,48,Other,AI Engineer,112272
+Bachelor's,Male,Government,38,Germany,ML Engineer,94063
+PhD,Female,Government,48,India,Website Handler,81494
+Master's,Other,Self-Employed,50,India,AI Engineer,111923
+Bachelor's,Other,Self-Employed,51,Germany,AI Engineer,107379
+Master's,Male,Private,21,Canada,Website Handler,74554
+Bachelor's,Other,Self-Employed,33,Canada,ML Engineer,93115
+Master's,Female,Self-Employed,54,India,AI Engineer,111326
+Bachelor's,Female,Self-Employed,29,Canada,Data Analyst,75995
+PhD,Other,Government,42,India,Data Analyst,91525
+Master's,Female,Government,49,Other,Website Handler,76030
+Master's,Other,Government,36,Canada,AI Engineer,106054
+Master's,Male,Government,46,Other,Cloud Engineer,100957
+Master's,Other,Private,45,India,AI Engineer,105276
+Master's,Female,Self-Employed,48,Germany,AI Engineer,106215
+Bachelor's,Male,Self-Employed,37,Other,Website Handler,70498
+Bachelor's,Male,Private,23,Other,Cloud Engineer,87590
+Master's,Other,Government,58,Canada,Website Handler,79309
+Bachelor's,Male,Government,23,Other,ML Engineer,89543
+Master's,Male,Private,60,United States,Software Engineer,97819
+Master's,Other,Self-Employed,41,United States,Website Handler,77156
+Master's,Other,Government,44,India,Data Analyst,83292
+PhD,Female,Self-Employed,60,Other,Website Handler,88228
+PhD,Other,Government,59,Other,Software Engineer,101298
+Master's,Male,Self-Employed,22,Canada,AI Engineer,104787
+Master's,Other,Private,21,India,ML Engineer,95513
+Bachelor's,Other,Government,24,India,Software Engineer,78962
+Bachelor's,Male,Government,45,Other,Data Analyst,78687
+Master's,Male,Self-Employed,52,India,Cloud Engineer,103137
+Master's,Other,Private,26,United States,Cloud Engineer,92331
+Bachelor's,Male,Government,39,Canada,Website Handler,76322
+PhD,Female,Government,57,Other,ML Engineer,108618
+Master's,Other,Private,23,Germany,Cloud Engineer,95093
+Bachelor's,Female,Private,36,Canada,Website Handler,68183
+Master's,Female,Government,49,United States,Data Analyst,90328
+PhD,Other,Self-Employed,57,Germany,Cloud Engineer,109317
+PhD,Other,Government,39,Other,Software Engineer,89693
+PhD,Female,Government,21,India,Software Engineer,83724
+Bachelor's,Female,Self-Employed,27,Canada,Software Engineer,78538
+Bachelor's,Male,Private,41,Germany,Data Analyst,81196
+Master's,Male,Private,43,United States,Software Engineer,91628
+PhD,Female,Self-Employed,44,Germany,AI Engineer,113697
+Bachelor's,Male,Self-Employed,51,United States,Website Handler,82134
+PhD,Female,Private,38,India,Data Analyst,85936
+Master's,Female,Government,42,India,ML Engineer,102902
+Bachelor's,Other,Government,21,United States,Software Engineer,78840
+Bachelor's,Male,Private,59,Canada,Website Handler,76081
+Bachelor's,Female,Self-Employed,31,India,ML Engineer,92057
+PhD,Other,Government,54,Other,Cloud Engineer,104969
+Bachelor's,Male,Private,55,Germany,AI Engineer,104183
+Bachelor's,Other,Self-Employed,41,Germany,Software Engineer,84988
+Master's,Male,Private,42,United States,ML Engineer,104467
+Master's,Male,Self-Employed,39,Other,Website Handler,79544
+Bachelor's,Male,Self-Employed,51,United States,Website Handler,83151
+Master's,Other,Private,28,Canada,ML Engineer,95091
+Master's,Male,Self-Employed,48,United States,ML Engineer,109821
+Master's,Female,Private,44,Germany,AI Engineer,108287
+PhD,Male,Private,30,India,Software Engineer,86487
+PhD,Other,Private,42,Germany,Software Engineer,89663
+PhD,Male,Self-Employed,47,Germany,Software Engineer,96433
+Master's,Female,Self-Employed,43,India,AI Engineer,105355
+Bachelor's,Female,Self-Employed,41,Canada,Website Handler,69783
+PhD,Male,Government,56,Canada,Cloud Engineer,110984
+Master's,Female,Government,38,Other,ML Engineer,104861
+PhD,Male,Private,32,Other,AI Engineer,114421
+Master's,Male,Self-Employed,51,United States,Cloud Engineer,105354
+Master's,Female,Self-Employed,43,India,ML Engineer,99350
+Master's,Female,Private,54,India,ML Engineer,108624
+Bachelor's,Female,Government,40,Canada,Software Engineer,83611
+Master's,Male,Private,53,Germany,ML Engineer,106373
+PhD,Male,Self-Employed,46,Germany,Cloud Engineer,101936
+PhD,Female,Self-Employed,27,United States,Data Analyst,88813
+PhD,Male,Self-Employed,29,Canada,Software Engineer,89518
+Master's,Female,Private,21,Other,Website Handler,68987
+Master's,Female,Private,34,United States,Cloud Engineer,96477
+Bachelor's,Other,Self-Employed,42,Other,AI Engineer,99063
+Master's,Female,Government,44,Canada,ML Engineer,105593
+Master's,Other,Self-Employed,22,United States,Cloud Engineer,95984
+Bachelor's,Female,Self-Employed,42,India,Cloud Engineer,92421
+PhD,Other,Self-Employed,34,Other,ML Engineer,105763
+Master's,Male,Private,50,Other,Website Handler,82161
+Master's,Male,Private,30,Germany,Website Handler,78158
+Bachelor's,Other,Private,38,Germany,ML Engineer,98833
+PhD,Other,Private,28,Other,Data Analyst,85264
+Bachelor's,Male,Government,22,Germany,ML Engineer,90062
+PhD,Male,Private,46,Other,AI Engineer,118612
+Master's,Other,Self-Employed,37,Germany,ML Engineer,104938
+PhD,Female,Self-Employed,60,United States,ML Engineer,117385
+PhD,Other,Self-Employed,30,Germany,Website Handler,75914
+PhD,Other,Self-Employed,31,Canada,Data Analyst,81979
+Bachelor's,Other,Government,50,United States,Website Handler,81914
+Master's,Male,Private,43,Other,AI Engineer,110878
+Master's,Other,Private,31,Canada,Software Engineer,83810
+Bachelor's,Male,Government,37,Other,ML Engineer,95577
+PhD,Female,Government,25,Canada,Cloud Engineer,100182
+Bachelor's,Other,Government,44,Germany,AI Engineer,105176
+Bachelor's,Female,Private,56,Canada,Website Handler,77107
+Bachelor's,Female,Self-Employed,42,Other,Software Engineer,81190
+PhD,Male,Self-Employed,40,Other,Software Engineer,90823
+PhD,Female,Self-Employed,23,India,Cloud Engineer,95768
+Master's,Female,Private,29,India,AI Engineer,101548
+Bachelor's,Other,Self-Employed,40,United States,Data Analyst,79343
+Bachelor's,Female,Government,22,Other,Data Analyst,68156
+Master's,Male,Private,43,United States,ML Engineer,107253
+PhD,Male,Private,21,India,ML Engineer,99190
+Master's,Female,Private,34,India,ML Engineer,97479
+Bachelor's,Male,Private,30,Other,Software Engineer,78342
+Master's,Other,Private,46,United States,Cloud Engineer,98422
+Master's,Other,Private,39,Other,Software Engineer,83052
+PhD,Female,Private,38,Germany,Cloud Engineer,105225
+Master's,Male,Government,57,India,Cloud Engineer,104660
+Master's,Other,Self-Employed,50,Germany,ML Engineer,107237
+PhD,Other,Self-Employed,59,Other,Software Engineer,97531
+Bachelor's,Female,Government,21,Germany,Data Analyst,69470
+Master's,Other,Self-Employed,31,Other,Website Handler,72954
+Bachelor's,Other,Self-Employed,21,Other,Cloud Engineer,89556
+Bachelor's,Other,Government,44,India,Cloud Engineer,89471
+Master's,Male,Self-Employed,32,Other,Data Analyst,77997
+PhD,Other,Self-Employed,52,Canada,Data Analyst,87986
+PhD,Other,Government,60,Other,AI Engineer,121917
+Bachelor's,Female,Self-Employed,48,India,Website Handler,70447
+Bachelor's,Other,Self-Employed,44,Germany,AI Engineer,99650
+Bachelor's,Female,Private,60,India,Website Handler,80248
+Bachelor's,Other,Government,50,Other,AI Engineer,102773
+Master's,Female,Private,55,United States,Software Engineer,97244
+Master's,Male,Government,57,United States,Website Handler,85541
+Master's,Other,Private,57,United States,Cloud Engineer,103728
+PhD,Other,Self-Employed,55,Other,Website Handler,82710
+Bachelor's,Male,Private,21,India,Software Engineer,73668
+PhD,Female,Self-Employed,27,United States,AI Engineer,110161
+Master's,Male,Government,46,Other,Data Analyst,85128
+Master's,Female,Private,29,United States,AI Engineer,110690
+PhD,Female,Private,29,Germany,Website Handler,78873
+Bachelor's,Female,Private,21,Canada,ML Engineer,91245
+Master's,Male,Private,49,Other,Cloud Engineer,101936
+PhD,Other,Self-Employed,54,Canada,AI Engineer,114479
+PhD,Other,Private,22,Germany,Software Engineer,86868
+Master's,Female,Self-Employed,43,India,Website Handler,81350
+Master's,Male,Private,27,Other,Website Handler,76528
+PhD,Other,Private,43,United States,Cloud Engineer,107702
+PhD,Female,Private,51,India,ML Engineer,110181
+PhD,Female,Private,46,Canada,Data Analyst,85862
+Bachelor's,Female,Private,21,Other,AI Engineer,97264
+Bachelor's,Female,Self-Employed,56,Canada,Cloud Engineer,94455
+PhD,Male,Self-Employed,30,Canada,Software Engineer,93772
+Master's,Male,Government,40,Other,Software Engineer,90399
+Master's,Other,Government,46,United States,Website Handler,82165
+Master's,Male,Government,38,India,ML Engineer,101434
+Bachelor's,Male,Private,23,United States,Website Handler,72332
+PhD,Other,Government,30,Other,Software Engineer,90236
+Bachelor's,Male,Self-Employed,49,Other,Website Handler,73809
+Master's,Other,Government,52,Germany,Website Handler,80452
+Bachelor's,Other,Self-Employed,23,United States,AI Engineer,102297
+Bachelor's,Other,Private,24,Other,ML Engineer,95766
+Bachelor's,Female,Self-Employed,50,India,ML Engineer,101383
+Bachelor's,Other,Private,52,United States,Website Handler,78885
+PhD,Female,Government,50,Canada,Data Analyst,88459
+PhD,Female,Private,59,Canada,AI Engineer,121303
+PhD,Male,Self-Employed,23,Other,Software Engineer,87730
+Master's,Other,Self-Employed,33,Canada,Website Handler,76679
+Bachelor's,Male,Private,30,Germany,ML Engineer,98481
+Bachelor's,Male,Government,39,India,Website Handler,69560
+Bachelor's,Other,Private,29,United States,Software Engineer,84542
+Bachelor's,Male,Self-Employed,30,Germany,Software Engineer,76864
+PhD,Other,Government,52,Canada,AI Engineer,114930
+Master's,Male,Private,58,Canada,AI Engineer,114496
+PhD,Male,Government,21,Germany,Data Analyst,80689
+PhD,Other,Self-Employed,21,India,Website Handler,79146
+PhD,Female,Government,22,Germany,Website Handler,75814
+Master's,Other,Government,34,Canada,ML Engineer,98100
+Bachelor's,Other,Self-Employed,45,Canada,Software Engineer,83943
+PhD,Female,Private,23,United States,Website Handler,76732
+PhD,Male,Self-Employed,23,United States,Software Engineer,91764
+Master's,Male,Government,23,India,Cloud Engineer,93742
+PhD,Female,Self-Employed,50,Other,Data Analyst,87209
+Bachelor's,Female,Government,52,United States,AI Engineer,110186
+Master's,Male,Self-Employed,35,Other,ML Engineer,100768
+Master's,Other,Private,55,United States,AI Engineer,111827
+Bachelor's,Female,Private,21,Germany,AI Engineer,99301
+Master's,Female,Private,48,Canada,Software Engineer,89202
+Master's,Female,Self-Employed,36,Germany,Website Handler,72173
+PhD,Other,Self-Employed,31,United States,Cloud Engineer,105451
+Bachelor's,Male,Government,27,United States,ML Engineer,93664
+Bachelor's,Other,Private,33,United States,Cloud Engineer,95795
+Master's,Female,Self-Employed,23,United States,Cloud Engineer,93903
+Master's,Male,Government,37,India,AI Engineer,103889
+Master's,Other,Private,21,Other,Cloud Engineer,94423
+PhD,Female,Self-Employed,26,United States,Website Handler,79542
+Bachelor's,Other,Private,54,Canada,Data Analyst,80484
+Bachelor's,Female,Government,57,United States,Cloud Engineer,98813
+Bachelor's,Male,Self-Employed,37,Canada,AI Engineer,104490
+Bachelor's,Female,Private,52,United States,ML Engineer,106220
+PhD,Other,Private,30,Other,Data Analyst,87691
+Bachelor's,Other,Government,35,India,Data Analyst,77541
+PhD,Other,Government,30,Canada,AI Engineer,106348
+PhD,Male,Self-Employed,37,India,AI Engineer,113899
+Master's,Female,Government,60,Other,AI Engineer,115473
+Bachelor's,Female,Self-Employed,34,Canada,Website Handler,68799
+Master's,Female,Government,39,Canada,ML Engineer,98880
+Bachelor's,Other,Private,52,Other,Cloud Engineer,94853
+PhD,Other,Self-Employed,29,India,Cloud Engineer,96935
+Master's,Male,Private,41,Other,Software Engineer,90274
+Bachelor's,Other,Private,27,India,Software Engineer,74835
+PhD,Female,Government,56,Canada,Website Handler,89248
+Master's,Other,Private,56,Germany,Software Engineer,95358
+PhD,Male,Self-Employed,54,Germany,Website Handler,86352
+PhD,Other,Self-Employed,28,United States,Website Handler,83961
+PhD,Other,Self-Employed,38,Other,AI Engineer,109303
+PhD,Male,Private,38,United States,Cloud Engineer,107943
+PhD,Other,Self-Employed,51,Germany,Software Engineer,98985
+PhD,Female,Private,56,India,ML Engineer,110870
+Bachelor's,Male,Government,33,Canada,ML Engineer,96537
+PhD,Male,Self-Employed,30,India,Data Analyst,87407
+PhD,Other,Government,50,Other,Data Analyst,90736
+Bachelor's,Female,Self-Employed,38,Other,Website Handler,67932
+PhD,Male,Government,44,United States,Cloud Engineer,107765
+Master's,Male,Government,56,Other,Cloud Engineer,104633
+Master's,Female,Self-Employed,42,Canada,Website Handler,74322
+Master's,Female,Private,25,India,AI Engineer,105321
+Master's,Female,Self-Employed,50,Canada,Data Analyst,83640
+Master's,Female,Private,52,India,Data Analyst,86937
+Master's,Other,Self-Employed,33,United States,Website Handler,81010
+PhD,Other,Self-Employed,54,India,Cloud Engineer,102803
+PhD,Male,Private,47,United States,Website Handler,91284
+Bachelor's,Male,Private,21,Other,Software Engineer,76964
+Master's,Male,Private,31,Other,ML Engineer,104230
+Master's,Other,Self-Employed,49,Germany,Website Handler,83393
+Master's,Female,Government,44,Canada,ML Engineer,104551
+Bachelor's,Female,Government,47,United States,AI Engineer,105260
+PhD,Male,Self-Employed,39,Canada,Software Engineer,92479
+Bachelor's,Male,Government,25,United States,Data Analyst,80160
+Master's,Female,Private,25,Canada,ML Engineer,94264
+PhD,Male,Self-Employed,45,Other,Data Analyst,89053
+Master's,Female,Self-Employed,56,Other,Cloud Engineer,98496
+Master's,Male,Private,53,India,Software Engineer,92209
+Master's,Male,Self-Employed,60,United States,AI Engineer,117653
+Master's,Other,Self-Employed,27,India,Cloud Engineer,89460
+Bachelor's,Other,Government,52,Germany,AI Engineer,105097
+Bachelor's,Other,Government,26,Other,Website Handler,65330
+Master's,Other,Private,32,Other,Cloud Engineer,90866
+Bachelor's,Other,Private,29,United States,Software Engineer,78999
+PhD,Other,Self-Employed,39,Germany,AI Engineer,109638
+Bachelor's,Male,Private,41,United States,ML Engineer,99543
+Master's,Female,Self-Employed,40,Canada,AI Engineer,104561
+PhD,Male,Self-Employed,60,Canada,ML Engineer,112499
+PhD,Male,Self-Employed,23,Other,ML Engineer,105713
+PhD,Male,Government,57,Other,Website Handler,85640
+PhD,Male,Government,31,India,Website Handler,77851
+PhD,Other,Government,31,Canada,Website Handler,81520
+Master's,Female,Government,54,Germany,AI Engineer,114507
+Bachelor's,Male,Private,25,Other,ML Engineer,95196
+Bachelor's,Male,Private,56,India,Website Handler,79409
+Master's,Male,Private,24,Canada,AI Engineer,105768
+Bachelor's,Other,Private,49,Other,AI Engineer,102399
+Bachelor's,Other,Private,45,India,ML Engineer,95761
+Master's,Male,Government,28,United States,Website Handler,76018
+PhD,Other,Government,24,Other,AI Engineer,110211
+Master's,Other,Private,43,Germany,Software Engineer,85727
+Bachelor's,Male,Government,44,India,AI Engineer,100516
+Master's,Female,Self-Employed,24,Other,Data Analyst,75324
+Master's,Other,Government,40,Germany,Software Engineer,86068
+Master's,Female,Private,53,United States,Cloud Engineer,103601
